@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "618f3c726625113c50882970"
+  },
+  "cedula_cliente": 0,
+  "codigo_venta": 0,
+  "detalleventa": [
+    {
+      "cantidad_producto": 0,
+      "codigo_producto": 0,
+      "valor_total": 0,
+      "vaor_venta": 0,
+      "valoriva": 0
+    }
+  ],
+  "ivaventa": 0,
+  "total_venta": 0,
+  "valor_venta": 0
+}]

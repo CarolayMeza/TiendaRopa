@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "618f3aa56625113c5088296d"
+  },
+  "cedula_cliente": 0,
+  "direccion_cliente": "String",
+  "email_cliente": "String",
+  "nombre_cliente": "String",
+  "telefono_cliente": "String"
+}]
